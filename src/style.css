@@ -1,0 +1,17 @@
+h1,
+p {
+  font-family: Lato;
+}
+#h1 {
+  font-size: 50px;
+}
+
+#image {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+#image > img {
+  width: 250px;
+  height: 150px;
+}
